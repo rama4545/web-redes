@@ -13,3 +13,23 @@ h1{
     background-color: white;
     color: rgb(241, 238, 39);
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    }
+    
+    li {
+    float: left;
+    color: rgb(19, 18, 18);;
+    }
+    
+    li a {
+    display: block;
+    color: rgb(14, 13, 13);
+    text-align: center;
+    padding: 14px 50px;
+    text-decoration: none;
+    }
+    
