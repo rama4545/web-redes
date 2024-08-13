@@ -22,14 +22,56 @@ ul {
     
     li {
     float: left;
-    color: rgb(19, 18, 18);;
+    color: rgb(19, 18, 18);
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin: 10px;
+    border-radius: 5px;
     }
     
     li a {
     display: block;
     color: rgb(14, 13, 13);
     text-align: center;
-    padding: 14px 50px;
+    padding: 50px;
     text-decoration: none;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
     }
-    
+    .titulo{
+margin-right: 20px ;
+border: 20px ;
+margin: 20px;
+border-radius: 20px color white;
+float: left;
+    }
+ .argentino{
+border: 20px ;
+margin: 20px;
+border-radius: 20px color white;
+float: right;
+ }
+
+ li:hover {
+    background-color: #141414;
+    box-shadow: 0px 2px 5px rgba(44, 9, 243, 0.3); 
+    transition: all 0.5s
+}
+h2 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black}
+
+    .scalonii{
+margin-right: 20px ;
+border: 20px ;
+margin: 20px;
+border-radius: 20px color white;
+float: left;
+    }
+    .scalonii {
+border: 20px ;
+margin: 20px;
+border-radius: 20px color white;
+    }
